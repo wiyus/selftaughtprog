@@ -1,0 +1,1 @@
+The parent of a [**subclass**](Subclass.md), the class being *[inherited](Inheritance)* from.
