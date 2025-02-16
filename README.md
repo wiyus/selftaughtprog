@@ -2,4 +2,4 @@ An ensemble of notes I wrote self-teaching different programming languages and c
 
 ## Languages
 
-1. Java
+1. *Java*
