@@ -1,4 +1,4 @@
-**Polymorphism** is an [[OOP]] concept which extends upon [inheritance](Inheritance). It involves **overriding** an instance of a [superclass'](Superclass) method within a [subclass](Subclass).
+**Polymorphism** is an [[OOP]] concept which extends upon [inheritance](Inheritance.md). It involves **overriding** an instance of a [superclass'](Superclass.md) method within a [subclass](Subclass.md).
 
 # **Example** 
 

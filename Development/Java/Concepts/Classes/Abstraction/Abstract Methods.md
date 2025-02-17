@@ -1,4 +1,4 @@
-Part of [[Abstract Classes]], using an **Abstract Method** forces all [subclasses](Inheritance) of the **Abstract Class** to [implement](Polymorphism) it.
+Part of [[Abstract Classes]], using an **Abstract Method** forces all [subclasses](Inheritance.md) of the **Abstract Class** to [implement](Polymorphism.md) it.
 
 # **Example:**
 

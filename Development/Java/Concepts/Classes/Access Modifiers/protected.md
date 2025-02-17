@@ -1,4 +1,4 @@
-Usable for everything **but** classes. **protected** means the element may be accessed within the same [package](Packages) or by [subclasses](Inheritance).
+Usable for everything **but** classes. **protected** means the element may be accessed within the same [package](Packages) or by [subclasses](Inheritance.md).
 
 # Example
 

@@ -1,4 +1,4 @@
-The child of a **[superclass](Superclass.md)**, the class *[inheriting](Inheritance)* from the other.
+The child of a **[superclass](Superclass.md)**, the class *[inheriting](Inheritance.md)* from the other.
 
 You can call upon the *superclass* with the **super** keyword.
 

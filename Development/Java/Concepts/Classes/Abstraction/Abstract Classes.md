@@ -1,4 +1,4 @@
-An [[Abstract]] [[class]] can use [[Abstract Methods]] alongside regular [[method]]s.
+An [[Abstract]] [[Class]] can use [[Abstract Methods]] alongside regular [[method]]s.
 
 You **cannot create** an object from abstract class, it must be **[extended](Inheritance.md)** from a class.
 
